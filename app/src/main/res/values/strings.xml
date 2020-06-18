@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyRichEditText</string>
+    <string name="hit">想说点什么？</string>
+    <string name="samll">小</string>
+    <string name="middle">中</string>
+    <string name="big">大</string>
+    <string name="picture">图片</string>
+    <string name="bold">B</string>
+    <string name="italic">I</string>
+    <string name="underline">U</string>
+    <string name="streak">S</string>
+    <string name="back">返回</string>
+    <string name="Title">富文本编辑器</string>
+</resources>
